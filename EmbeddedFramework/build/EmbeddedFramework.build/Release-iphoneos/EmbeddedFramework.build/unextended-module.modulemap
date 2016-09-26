@@ -1,0 +1,10 @@
+framework module EmbeddedFramework {
+  umbrella header "EmbeddedFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module EmbeddedFramework.__Swift {
+    exclude header "EmbeddedFramework-Swift.h"
+}

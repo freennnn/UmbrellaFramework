@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/apranevi/Work/Projects/Components/Projects/R&D/Umbrella/EmbeddedFramework/build/Release-iphoneos/EmbeddedFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "EmbeddedFramework-Swift.h",
+          'external-contents': "/Users/apranevi/Work/Projects/Components/Projects/R&D/Umbrella/EmbeddedFramework/build/Release-iphoneos/EmbeddedFramework.framework/Headers/EmbeddedFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "EmbeddedFramework.h",
+          'external-contents': "/Users/apranevi/Work/Projects/Components/Projects/R&D/Umbrella/EmbeddedFramework/EmbeddedFramework/EmbeddedFramework.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apranevi/Work/Projects/Components/Projects/R&D/Umbrella/EmbeddedFramework/build/Release-iphoneos/EmbeddedFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apranevi/Work/Projects/Components/Projects/R&D/Umbrella/EmbeddedFramework/build/EmbeddedFramework.build/Release-iphoneos/EmbeddedFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.3 (swiftlang-800.10.12 clang-800.0.38)"
+options: "e8a55437c1ff01e0b4b0e19eb0d52e05"
+build_time: [527974593, 799133000]
+inputs:
+  "/Users/apranevi/Work/Projects/Components/Projects/R&D/Umbrella/EmbeddedFramework/EmbeddedFramework/Embedded.swift": [9223372036854775807, 0]
