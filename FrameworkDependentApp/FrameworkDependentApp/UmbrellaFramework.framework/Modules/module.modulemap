@@ -3,8 +3,36 @@ framework module UmbrellaFramework {
 
   export *
   module * { export * }
+  
+
+  
+}
+
+framework module EmbeddedFramework {
+    umbrella header "EmbeddedFramework.h"
+    //export *
+    
 }
 
 module UmbrellaFramework.Swift {
     header "UmbrellaFramework-Swift.h"
+    
+//    module EmbeddedFramework.Swift {
+//        header "EmbeddedFramework-Swift.h"
+//    }
+
 }
+
+
+
+
+//framework module EmbeddedFramework {
+//    umbrella header "EmbeddedFramework.h"
+//   
+//    export *
+//    module * { export * }
+//}
+//
+//module EmbeddedFramework.Swift {
+//	header "EmbeddedFramework-Swift.h"
+//}
