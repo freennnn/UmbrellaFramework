@@ -363,12 +363,13 @@
 				DEVELOPMENT_TEAM = 7M8XGUGE24;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/FrameworkDependentApp",
+					"$(PROJECT_DIR)/FrameworkDependentApp/**",
 				);
 				INFOPLIST_FILE = FrameworkDependentApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.visa.FrameworkDependentApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/Frameworks/**";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -380,12 +381,13 @@
 				DEVELOPMENT_TEAM = 7M8XGUGE24;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/FrameworkDependentApp",
+					"$(PROJECT_DIR)/FrameworkDependentApp/**",
 				);
 				INFOPLIST_FILE = FrameworkDependentApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.visa.FrameworkDependentApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/Frameworks/**";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;

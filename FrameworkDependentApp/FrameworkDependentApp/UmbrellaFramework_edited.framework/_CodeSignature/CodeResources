@@ -6,15 +6,15 @@
 	<dict>
 		<key>Frameworks/EmbeddedFramework.framework/EmbeddedFramework</key>
 		<data>
-		0lc0DCttNU/Qf+v4DEusqPfc4s8=
+		YFMsLsmzeYVf4DIrJbhMz2Q8nl0=
 		</data>
 		<key>Frameworks/EmbeddedFramework.framework/Info.plist</key>
 		<data>
-		vuU795U8kuUvJ1sScICXMmpjQJ8=
+		CxXbBkV3pBKUSmFIB4PEFTtBvQ8=
 		</data>
 		<key>Frameworks/EmbeddedFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
-		IUPP9ow7XyNI0KOB5pLnsO2+S5k=
+		3zfet758w89uOlRsKQ0sg4N5oaI=
 		</data>
 		<key>Headers/UmbrellaFramework-Swift.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		eyr9h6U+JlgB17I4tcUnoVCGnPk=
+		NlFdnocHBmtAPy2l101EdyasQ1o=
 		</data>
 		<key>Modules/UmbrellaFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/UmbrellaFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		vXjwnhm3/Dw8jK4Ri72fwoNctdA=
+		07btEreMom4bXldtGJIf4tNk4Y0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,33 +47,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0lc0DCttNU/Qf+v4DEusqPfc4s8=
+			YFMsLsmzeYVf4DIrJbhMz2Q8nl0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sx6d2vcg6neNkFN9JNLLkdgo26rmNRG5LmQJF87bAOg=
+			ua3ExjXXWteIJIWuneSZSuJPPmXOyAQPvxMDjpOVAmU=
 			</data>
 		</dict>
 		<key>Frameworks/EmbeddedFramework.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vuU795U8kuUvJ1sScICXMmpjQJ8=
+			CxXbBkV3pBKUSmFIB4PEFTtBvQ8=
 			</data>
 			<key>hash2</key>
 			<data>
-			90u2Z1AxD3TB3m8Cu1mFTOCCDVLRTgU6NSaOzdb7/Ak=
+			KZ9aR54mk+Op05zY/9+ax7Wpu5+kMhRm/KWfQ4U4BsA=
 			</data>
 		</dict>
 		<key>Frameworks/EmbeddedFramework.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IUPP9ow7XyNI0KOB5pLnsO2+S5k=
+			3zfet758w89uOlRsKQ0sg4N5oaI=
 			</data>
 			<key>hash2</key>
 			<data>
-			VtZSFxJczrsy4/vGCYBuU3ds4zWC2YLa+6fAGM/EnCA=
+			5CjhOvpl7U0hvk+GwDpo2h7MuFeQ+bMOPLMXbtE+PYQ=
 			</data>
 		</dict>
 		<key>Headers/UmbrellaFramework-Swift.h</key>
@@ -113,11 +113,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vXjwnhm3/Dw8jK4Ri72fwoNctdA=
+			07btEreMom4bXldtGJIf4tNk4Y0=
 			</data>
 			<key>hash2</key>
 			<data>
-			n1KjY/qKwPnSB3dZoAQW3DUidhfpF0v6qUmx18C7Lsk=
+			GyevKDjkWpJx9iF+aRrJZ9ms9JNWN34KyDVVnKUcCfM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

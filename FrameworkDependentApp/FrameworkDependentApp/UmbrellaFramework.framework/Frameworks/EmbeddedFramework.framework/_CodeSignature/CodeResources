@@ -4,89 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/EmbeddedFramework-Swift.h</key>
-		<data>
-		Tln/9IQo2L21GRfLzOFary94c0Q=
-		</data>
-		<key>Headers/EmbeddedFramework.h</key>
-		<data>
-		3GJ8e0z5NfQNs4wwcFWt1SLS2xI=
-		</data>
 		<key>Info.plist</key>
 		<data>
 		vuU795U8kuUvJ1sScICXMmpjQJ8=
 		</data>
-		<key>Modules/EmbeddedFramework.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		hPBtQxJplb2u/y4xf3YB0KOQEzc=
-		</data>
-		<key>Modules/EmbeddedFramework.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		L2NlyKmH/U4w5Jnz66mKbtZkNdo=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		9MzFoxTKO3uVYAJoaHCifTJanTw=
-		</data>
 	</dict>
 	<key>files2</key>
-	<dict>
-		<key>Headers/EmbeddedFramework-Swift.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Tln/9IQo2L21GRfLzOFary94c0Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			8OOhtwFWi8LhdPIB+ALONegnrtjqCq1IAObXNtzqth4=
-			</data>
-		</dict>
-		<key>Headers/EmbeddedFramework.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3GJ8e0z5NfQNs4wwcFWt1SLS2xI=
-			</data>
-			<key>hash2</key>
-			<data>
-			rt3hUEFUCn5ZRANp6ZnAMKumGQfw4Qh7cYffzSZbJuU=
-			</data>
-		</dict>
-		<key>Modules/EmbeddedFramework.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hPBtQxJplb2u/y4xf3YB0KOQEzc=
-			</data>
-			<key>hash2</key>
-			<data>
-			LUm9R2lo11+WhXDBuHzGSwxUXBBa+aSGwYWK6+syp18=
-			</data>
-		</dict>
-		<key>Modules/EmbeddedFramework.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			L2NlyKmH/U4w5Jnz66mKbtZkNdo=
-			</data>
-			<key>hash2</key>
-			<data>
-			CE6PRlWst4G1Ea1QPCrJtlq3qkaKFAJmGEi84YpYE44=
-			</data>
-		</dict>
-		<key>Modules/module.modulemap</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9MzFoxTKO3uVYAJoaHCifTJanTw=
-			</data>
-			<key>hash2</key>
-			<data>
-			JuBiX2THu88dXDHvoy7RLw4KG1OkqLazt7rdky69JR0=
-			</data>
-		</dict>
-	</dict>
+	<dict/>
 	<key>rules</key>
 	<dict>
 		<key>^</key>
